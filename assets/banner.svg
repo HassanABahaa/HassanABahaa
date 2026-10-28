@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="330" viewBox="0 0 1280 330" role="img" aria-labelledby="title desc">
+  <title id="title">Hassan Ahmed Bahaa — Backend Developer</title>
+  <desc id="desc">Node.js and TypeScript. APIs, SaaS platforms and real-time applications. A navy banner with a small system diagram.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101d2d"/><stop offset="1" stop-color="#122d36"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#86efac"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1280" height="330" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="330" rx="20" fill="url(#grid)"/>
+  <rect x="62" y="58" width="38" height="4" rx="2" fill="#86efac"/>
+  <text x="114" y="66" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#a8c7d1">BACKEND ENGINEERING</text>
+  <text x="60" y="137" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" fill="#f1f7fa">Hassan Ahmed Bahaa</text>
+  <text x="63" y="183" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#9de4e8">Backend Developer | Node.js &amp; TypeScript</text>
+  <text x="63" y="230" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#b3c6cf">APIs · SaaS platforms · Real-time applications</text>
+  <rect x="63" y="270" width="610" height="2" fill="url(#line)" opacity=".8"/>
+  <g fill="none" stroke="#558a96" stroke-width="2">
+    <path d="M940 164H980V91H1042"/>
+    <path d="M940 164H980V237H1042"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <rect x="815" y="123" width="125" height="82" rx="12" fill="#163b45" stroke="#67e8f9"/>
+    <text x="877.5" y="173" font-size="24" font-weight="700" fill="#c9f8ff">API</text>
+    <rect x="1042" y="57" width="156" height="68" rx="10" fill="#1a3240" stroke="#4e788a"/>
+    <text x="1120" y="99" font-size="18" fill="#d6eaf1">Database</text>
+    <rect x="1042" y="203" width="156" height="68" rx="10" fill="#18382f" stroke="#529575"/>
+    <text x="1120" y="245" font-size="18" fill="#c6f6db">Background jobs</text>
+  </g>
+  <circle cx="980" cy="164" r="5" fill="#86efac"/>
+</svg>
