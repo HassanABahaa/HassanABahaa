@@ -75,6 +75,16 @@ I build web platforms that help businesses manage their work, from order trackin
 
 <sub>Technology icons by <a href="https://skillicons.dev">Skill Icons</a>.</sub>
 
+<h2>&#128200; Contribution Activity</h2>
+
+<p align="center">
+<a href="https://github.com/HassanABahaa"><img src="assets/contribution-activity.svg" alt="Hassan Ahmed Bahaa's daily GitHub contribution activity" width="100%" /></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/HassanABahaa"><img src="https://streak-stats.demolab.com?user=HassanABahaa&amp;hide_border=true&amp;background=0D1117&amp;ring=818CF8&amp;fire=38BDF8&amp;currStreakLabel=C4B5FD&amp;sideLabels=C4B5FD&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=94A3B8" alt="Hassan Ahmed Bahaa's GitHub contribution streak" width="520" /></a>
+</p>
+
 <h2>&#128640; Featured projects</h2>
 
 <table>
